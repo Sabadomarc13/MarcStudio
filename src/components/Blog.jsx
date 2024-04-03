@@ -8,7 +8,7 @@ const Blog = () => {
       <div className="flex flex-col justify-center items-start text-left p-4 animate-fadeIn max-w-[640px]">
         <h1 className="text-red-600 text-3xl font-bold mb-4 drop-shadow-lg">
           {/* Static Text for Greeting */}
-          <span className="inline-block">Blog</span>
+          <span className="inline-block">Blogtae</span>
         </h1>
         <p className="mb-4 drop-shadow-lg">This is a brief description about yourself. You can add more details here, like your professional background, skills, or interests. This is a brief description about yourself. You can add more details here, like your professional background, skills, or interests.</p>
       </div>
