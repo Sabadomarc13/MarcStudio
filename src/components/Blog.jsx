@@ -10,7 +10,7 @@ const Blog = () => {
           {/* Static Text for Greeting */}
           <span className="inline-block">Blogtae</span>
         </h1>
-        <p className="mb-4 drop-shadow-lg">This is a brief description about yourself. You can add more details here, like your professional background, skills, or interests. This is a brief description about yourself. You can add more details here, like your professional background, skills, or interests.</p>
+        <p className="mb-4 drop-shadow-lg">This iass a brief description about yourself. You can add more details here, like your professional background, skills, or interests. This is a brief description about yourself. You can add more details here, like your professional background, skills, or interests.</p>
       </div>
     </div>
   )
